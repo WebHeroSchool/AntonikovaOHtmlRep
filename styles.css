@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,400;1,900&family=Rowdies:wght@700&display=swap');
+
+.footer__title {
+      display: block;
+      color: white;
+      background: red;
+      margin-bottom: 4px;
+      text-align: center;
+      align: bottom;
+      font-size: 40px;
+      font-family: 'Rowdies', cursive;
+    }
+
+.header__title_top {
+      display: inline;
+      font-size: 70px;
+      background: blue;
+      color: yellow;
+    }
+
+.header__title_center {
+      display: inline;
+      font-style: oblique;
+      font-size: 150px;
+    }
+
+body {
+      font-family: 'Lato', sans-serif;
+      background: url(1.png) no-repeat;
+      -moz-background-size: 100%; /* Firefox 3.6+ */
+      -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+      -o-background-size: 100%; /* Opera 9.6+ */
+      background-size: 100%; /* Современные браузеры */
+     }
